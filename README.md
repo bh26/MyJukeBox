@@ -1,9 +1,8 @@
 # MyJukeBox
 this Arduino script uses 7 capactitve sensors to trigger a different tune each played on the buzzer, and display some animated lights on a WS2801 addressable LEDs strip.
-I built it with borrowings from many kind people that I did not keep track from 
+I built it with borrowings from many kind people that I did not keep track of all from 
  * the beginning.
- * The main step for music is from Mike Putnam Pitches.h, then completed by the beep() function 
- * coming from someone else.
+ * The main step for music is from Mike Putnam Pitches.h, then completed by the beep() function that I found in an instructable from eserra (https://www.instructables.com/id/How-to-easily-play-music-with-buzzer-on-arduino-Th/) that included a first version of StarWars Imperial March.
  * Mission impossible rebuilt from Andre Thomas sketch
  * Frozen from Orlando S. Hoilett ( http://www.instructables.com/member/ohoilett/)
  * Fur elise from Emmanuel at http://repairmypc.net/2017/08/test-post/
